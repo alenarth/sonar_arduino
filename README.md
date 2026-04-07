@@ -4,7 +4,7 @@ Radar de curto alcance usando Arduino UNO, sensor ultrassônico HC-SR04 e servo 
  
 ## Como funciona
  
-O servo gira o sensor de 15° a 165°. A cada grau, o HC-SR04 mede a distância até o objeto mais próximo (alcance máximo: 40 cm). Os dados são enviados via porta serial e exibidos como um radar no Processing.
+O servo gira o sensor de 15° a 180°. A cada grau, o HC-SR04 mede a distância até o objeto mais próximo (alcance máximo: 40 cm). Os dados são enviados via porta serial e exibidos como um radar no Processing.
  
 ## Hardware
  
@@ -39,3 +39,4 @@ VCC no 5V, GND no GND.
  
 - [alenarth](https://github.com/alenarth)
 - [caiovfaria](https://github.com/caiovfaria)
+- [Joao-Thees] (https://github.com/Joao-Thees) 
